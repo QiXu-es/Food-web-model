@@ -29,12 +29,4 @@ Onput:
 
 #### Software requirements
 
-This code is only written in R. The required R packages for running are igraph, 
-
-[foodweb]: https://r-forge.r-project.org/projects/foodweb/
-
-, and 
-
-[omnivor]: https://github.com/clementviolet/omnivor
-
-.
+This code is written in R. The required R packages for running are igraph, foodweb, and omnivor.
